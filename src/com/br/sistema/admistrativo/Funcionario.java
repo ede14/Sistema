@@ -1,3 +1,4 @@
+package com.br.sistema.admistrativo;
 
 
 import java.io.Serializable;
