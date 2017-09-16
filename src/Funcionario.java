@@ -23,23 +23,41 @@ public class Funcionario implements Serializable {
 	private Integer idFuncionario;
 	@Column
 	private String nomeFuncionario;
+	@Column
 	private int rg;
+	@Column
 	private int cpf;
+	@Column
 	private Date dataNascimento;
+	@Column
 	private Date dataAdmissao;
+	@Column
 	private Date dataDemissao;
+	@Column
 	private String endereco;
+	@Column
 	private String bairro;
+	@Column
 	private Cidade cidade;
+	@Column
 	private Integer numero;
+	@Column
 	private String complemento;
+	@Column
 	private String pispasep;
+	@Column
 	private String telefone;
+	@Column
 	private String telefoneOpcional;
+	@Column
 	private String usuario;
+	@Column
 	private String senha;
+	@Column
 	private Boolean ativo;
+	@Column
 	private String cargo;
+	@Column
 	private String email;
 	
 	
