@@ -1,10 +1,13 @@
-package com.br.sistema.admistrativo;
+package com.br.sistema.model.admistrativo;
 
-import com.br.sistema.admistrativo.Cidade;
+import com.br.sistema.model.admistrativo.Cidade;
+
 import java.io.Serializable;
 import java.lang.Integer;
 import java.lang.String;
+
 import javax.persistence.*;
+
 import static javax.persistence.GenerationType.SEQUENCE;
 
 /**

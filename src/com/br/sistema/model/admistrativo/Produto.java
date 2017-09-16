@@ -1,4 +1,4 @@
-package com.br.sistema.admistrativo;
+package com.br.sistema.model.admistrativo;
 
 import java.io.Serializable;
 import java.lang.Double;

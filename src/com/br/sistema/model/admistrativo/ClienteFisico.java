@@ -1,10 +1,13 @@
-package com.br.sistema.admistrativo;
+package com.br.sistema.model.admistrativo;
 
-import com.br.sistema.admistrativo.Cliente;
+import com.br.sistema.model.admistrativo.Cliente;
+
 import java.io.Serializable;
 import java.lang.String;
 import java.util.Date;
+
 import javax.persistence.*;
+
 import static javax.persistence.TemporalType.DATE;
 
 /**
